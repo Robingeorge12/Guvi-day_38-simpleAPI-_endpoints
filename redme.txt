@@ -1,0 +1,16 @@
+
+
+/ ==> welcome you in to the Hotel
+
+/room ===> gets all rooms details
+
+/postRoomNewroom ==> we can add additional room 
+
+/booking   ===> by sending data , we will get room if available otherwise show "No rooms are available for booking"
+
+/bookedRoomsList ==> will get all booked rooms List
+
+/bookedUsersList ==> will get all users 
+
+/repeatedUser  ==> will get how many time a customer has booked rooms
+
