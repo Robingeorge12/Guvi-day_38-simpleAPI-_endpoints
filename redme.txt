@@ -4,7 +4,7 @@
 
 /room ===> gets all rooms details
 
-/postRoomNewroom ==> we can add additional room 
+/BookRoom ==> we can add additional room
 
 /booking   ===> by sending data , we will get room if available otherwise show "No rooms are available for booking"
 
@@ -13,4 +13,6 @@
 /bookedUsersList ==> will get all users 
 
 /repeatedUser  ==> will get how many time a customer has booked rooms
+
+/cancelBooking == >  we can cancel the booked rooms by checking name * booking_id
 
