@@ -4,7 +4,7 @@
 
 /room ===> gets all rooms details
 
-/BookRoom ==> we can add additional room
+/BookRoom ==> we can Book room by sending all respective fields
 
 /booking   ===> by sending data , we will get room if available otherwise show "No rooms are available for booking"
 
